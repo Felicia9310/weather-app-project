@@ -2,5 +2,10 @@
   "liveServer.settings.port": 5501,
   "scripts": {
     "build": "webpack"
+  },
+  "name": "my-package",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest"
   }
 }
