@@ -1,8 +1,0 @@
-{
-  "liveServer.settings.port": 5501,
-  "name": "my-package",
-  "scripts": {
-    "build": "babel src -d lib",
-    "test": "jest"
-  }
-}
